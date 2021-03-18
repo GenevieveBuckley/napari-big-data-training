@@ -25,7 +25,7 @@ Once cloned or unzipped you should navigate to the `napari-training-course`
 directory from the command line.
 
 ```
-cd napari--bog-data-training
+cd napari-big-data-training
 ```
 
 # 2. installation
