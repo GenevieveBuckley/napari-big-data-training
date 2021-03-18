@@ -1,0 +1,6 @@
+magicgui
+napari[all]==0.4.6
+scikit-image>=0.17.2
+tifffile>=2020.2.16
+jupyterlab
+zarr
