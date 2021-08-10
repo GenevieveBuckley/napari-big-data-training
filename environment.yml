@@ -12,3 +12,4 @@ dependencies:
   - dask-labextension
   - dask-image=0.5.0
   - python-graphviz
+  - matplotlib
