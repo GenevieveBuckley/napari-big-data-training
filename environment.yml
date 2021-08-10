@@ -1,4 +1,4 @@
-name: napari
+name: napari-big-data-training
 channels:
   - conda-forge
 dependencies:
@@ -8,3 +8,7 @@ dependencies:
   - imagecodecs
   - napari
   - zarr
+  - dask
+  - dask-labextension
+  - dask-image=0.5.0
+  - python-graphviz
